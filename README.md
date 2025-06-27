@@ -13,7 +13,18 @@ Online multiplayer is actively being developed.
 ******************
 How To Download
 ******************
-Opne Git Bash and Navigate to an open folder in your local machine.
+
+Option 1:
+Click on the green code drop down button near the top right, and click "Download ZIP"
+
+Extract the folder if it was downloaded as a .zip archive.
+
+Double-click BreakPoint.exe to launch the game.
+Note: If Windows SmartScreen prompts you, click “More info” → “Run anyway” to proceed.
+
+
+Option 2:
+Open Git Bash and Navigate to an open folder in your local machine.
 Clone the repository:
 git clone https://github.com/Aadharsh-Geethagovindan/BreakPoint.exe
 
@@ -21,12 +32,16 @@ Navigate to that folder in file explorer.
 Open the BreakPoint.exe file 
 
 
+****************************
 Recent Updates in v0.4.1:
+****************************
+
 Corrected stats for some characters
 Updated UI icons and elements in the arena
 
-
+************************
 Updates being worked on:
+*************************
 
 Resistance Grid added to character cards in battle
 
