@@ -13,20 +13,27 @@ Online multiplayer is actively being developed.
 ******************
 How To Download
 ******************
-Opne Git Bash and Navigate to an open folder in your local machine
+Opne Git Bash and Navigate to an open folder in your local machine.
 Clone the repository:
 git clone https://github.com/Aadharsh-Geethagovindan/BreakPoint.exe
+
 Navigate to that folder in file explorer.
 Open the BreakPoint.exe file 
+
 
 Recent Updates in v0.4.1:
 Corrected stats for some characters
 Updated UI icons and elements in the arena
 
+
 Updates being worked on:
-Adding Resistance Grid inside Arena Card
-Settings Tab for Volume and Exit Controls
-Instructions Tab to be implemented in application
-Character Overview to be implemented in application
-Character Preview to be implemented inside Character Select
-Multiplayer Mode
+
+Resistance Grid added to character cards in battle
+
+In-app Instructions tab
+
+Character Overview page
+
+Character preview in selection screen
+
+Online multiplayer mode
