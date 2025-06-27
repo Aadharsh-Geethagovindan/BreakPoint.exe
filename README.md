@@ -1,8 +1,11 @@
 BreakPoint
+
 Current Version: v0.4.1
+
 Please note: This is a pre-production version. Many features are still in development and subject to change.
 
 Quick Description:
+
 BreakPoint is a fast-paced, turn-based card game where two players face off using teams of three characters in a battle to the death. Strategically unleash your characters' abilities to outplay and defeat your opponent.
 
 The current version supports local multiplayer, allowing two players to play using a shared device.
