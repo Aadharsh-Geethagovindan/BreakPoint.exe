@@ -15,6 +15,7 @@ How To Download
 ******************
 
 Option 1:
+
 Click on the green code drop down button near the top right, and click "Download ZIP"
 
 Extract the folder if it was downloaded as a .zip archive.
@@ -24,7 +25,9 @@ Note: If Windows SmartScreen prompts you, click “More info” → “Run anywa
 
 
 Option 2:
+
 Open Git Bash and Navigate to an open folder in your local machine.
+
 Clone the repository:
 git clone https://github.com/Aadharsh-Geethagovindan/BreakPoint.exe
 
@@ -37,7 +40,10 @@ Recent Updates in v0.4.1:
 ****************************
 
 Corrected stats for some characters
+
 Updated UI icons and elements in the arena
+
+Icon refresh logic refined
 
 ************************
 Updates being worked on:
