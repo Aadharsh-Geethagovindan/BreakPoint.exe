@@ -2,7 +2,7 @@
   "characters": [
     {
       "name": "Arkhe",
-      "hp": 650,
+      "hp": 600,
       "speed": 35,
       "rarity": "UR",
       "SigChargeReq": 100,
@@ -39,7 +39,7 @@
     },
     {
       "name": "Avarice",
-      "hp": 360,
+      "hp": 310,
       "speed": 20,
       "rarity": "R",
       "SigChargeReq": 160,
@@ -76,7 +76,7 @@
     },
     {
       "name": "Bessil",
-      "hp": 420,
+      "hp": 370,
       "speed": 72,
       "rarity": "L",
       "SigChargeReq": 135,
@@ -113,7 +113,7 @@
     },
     {
       "name": "Breach Specialist",
-      "hp": 330,
+      "hp": 280,
       "speed": 10,
       "rarity": "C",
       "SigChargeReq": 30,
@@ -150,7 +150,7 @@
     },
     {
       "name": "Captain Dinso",
-      "hp": 600,
+      "hp": 550,
       "speed": 30,
       "rarity": "R",
       "SigChargeReq": 90,
@@ -187,7 +187,7 @@
     },
     {
       "name": "Constellian Trooper",
-      "hp": 20,
+      "hp": 270,
       "speed": 36,
       "rarity": "C",
       "SigChargeReq": 70,
@@ -206,7 +206,7 @@
         },
         {
           "name": "Scoped Rifle Shot",
-          "description": "All soldiers know that bracing and ADS help accuracy and precision.",
+          "description": "A good soldier knows that bracing and ADS help accuracy and precision.",
           "mechanics" : "Deals 35 force damage to 1 enemy",
           "cooldown": 3
         },
@@ -223,7 +223,7 @@
     },
     {
       "name": "Faru",
-      "hp": 500,
+      "hp": 450,
       "speed": 52,
       "rarity": "UC",
       "SigChargeReq": 110,
@@ -260,7 +260,7 @@
     },
     {
       "name": "Huron",
-      "hp": 450,
+      "hp": 400,
       "speed": 90,
       "rarity": "L",
       "SigChargeReq": 200,
@@ -297,7 +297,7 @@
     },
     {
       "name": "Jack",
-      "hp": 340,
+      "hp": 290,
       "speed": 20,
       "rarity": "UC",
       "SigChargeReq": 50,
@@ -334,7 +334,7 @@
     },
     {
       "name": "KAS",
-      "hp": 600,
+      "hp": 500,
       "speed": 35,
       "rarity": "R",
       "SigChargeReq": 130,
@@ -371,7 +371,7 @@
     },
     {
       "name": "Krakoa",
-      "hp": 520,
+      "hp": 470,
       "speed": 50,
       "rarity": "UR",
       "SigChargeReq": 130,
@@ -386,14 +386,14 @@
         {
           "name": "Riftbreaker Axe",
           "description": "Krakoa attacks with his riftbreaker axe",
-          "mechanics" : "Deals 35 elemental damage to 1 enemy",
+          "mechanics" : "Deals 25 elemental damage to 1 enemy",
           "cooldown": 0
         },
         {
           "name": "WarFrost",
           "description": "Krakoa's axe unleashes a wall of ice, dealing 30 Ice damage. He inflicts Chill on an enemy for 2 turns, dealing 20 ice damage",
           "mechanics" : "Deals 30 elemental damage to 1 enemy and applies Chill(20 elemental DoT) for 2 turns",
-          "cooldown": 2
+          "cooldown": 3
         },
         {
           "name": "Warriors Rage",
@@ -408,7 +408,7 @@
     },
     {
       "name": "Legionary",
-      "hp": 380,
+      "hp": 330,
       "speed": 22,
       "rarity": "C",
       "SigChargeReq": 58,
@@ -445,7 +445,7 @@
     },
     {
       "name": "Mizca",
-      "hp": 580,
+      "hp": 330,
       "speed": 30,
       "rarity": "R",
       "SigChargeReq": 120,
@@ -466,7 +466,7 @@
         {
           "name": "Saber Quake",
           "description": "Mizca slams the earth with his saber, bringing it back up from underneath the ground",
-          "mechanics" : "Deals 20 corrupt damage to enemies and has a 30% chance to apply weakened (-20% dmg mult.) for 1 turn",
+          "mechanics" : "Deals 20 corrupt damage to 2 enemies and has a 30% chance to apply weakened (-20% dmg mult.) for 1 turn",
           "cooldown": 2
         },
         {
@@ -482,7 +482,7 @@
     },
     {
       "name": "Nou",
-      "hp": 480,
+      "hp": 430,
       "speed": 50,
       "rarity": "L",
       "SigChargeReq": 200,
@@ -519,7 +519,7 @@
     },
     {
       "name": "Olthar",
-      "hp": 660,
+      "hp": 610,
       "speed": 37,
       "rarity": "UR",
       "SigChargeReq": 120,
@@ -534,7 +534,7 @@
         {
           "name": "Ocular Blaster",
           "description": "Olthar shoots an energy blast from his eyes",
-          "mechanics" : "Deals 35 Arcane damage",
+          "mechanics" : "Deals 35 Arcane damage to 1 enemy",
           "cooldown": 0
         },
         {
@@ -546,7 +546,7 @@
         {
           "name": " Word of Judgement",
           "description": "Olthar deals 60 energy damage and 15 energy damage to an enemy for the next two turns.",
-          "mechanics" : "Deals 60 arcane damage and applies Judgement(15 Arcane DoT) for 2 turns",
+          "mechanics" : "Deals 60 arcane damage to 1 enemy and applies Judgement(15 Arcane DoT) for 2 turns",
           "cooldown": 1
         }
       ],
@@ -556,7 +556,7 @@
     },
     {
       "name": "Rover",
-      "hp": 300,
+      "hp": 250,
       "speed": 7,
       "rarity": "C",
       "SigChargeReq": 30,
@@ -593,7 +593,7 @@
     },
     {
       "name": "Raish",
-      "hp": 450,
+      "hp": 400,
       "speed": 42,
       "rarity": "UC",
       "SigChargeReq": 75,
@@ -620,7 +620,7 @@
           "name": "Martyr",
           "description": "When threatened, the raish will explode outward",
           "mechanics" : "Deals corrupt damage equal to 150% of damage it has recieved to 1 enemy ",
-          "cooldown": 1
+          "cooldown": 4
         }
       ],
       "affiliation": "Rift",
@@ -629,10 +629,10 @@
     },
     {
       "name": "Rei",
-      "hp": 600,
+      "hp": 520,
       "speed": 32,
       "rarity": "UR",
-      "SigChargeReq": 100,
+      "SigChargeReq": 140,
       "imageName": "Rei",
       "moves": [
         {
@@ -644,19 +644,19 @@
         {
           "name": "Magicians Thrust",
           "description": "Rei attacks with her arcane spear",
-          "mechanics" : "Deals 40 arcane damage to 1 enemy",
+          "mechanics" : "Deals 30 arcane damage to 1 enemy",
           "cooldown": 0
         },
         {
           "name": "Burst Charge",
           "description": "Rei utters an offensive incantation that smites down at her enemy",
-          "mechanics" : "Deals 35 arcane damage to 1 enemy and applies ElectroShocked (10 arcane damage) for 2 turns and Hex(-20% arcane res) for 2 turns",
+          "mechanics" : "Deals 30 arcane damage to 1 enemy and applies ElectroShocked (10 arcane damage) for 2 turns and Hex(-20% arcane res) for 2 turns",
           "cooldown": 3
         },
         {
           "name": "Stunlock Spear",
           "description": "Rei enhances her spear with powerful runes ",
-          "mechanics" : "Deals 140 arcane damage at 1 enemy and a has a 40% chance to apply Stun for 1 turn",
+          "mechanics" : "Deals 70 arcane damage at 1 enemy and a has a 60% chance to apply Stun for 1 turn",
           "cooldown": 1
         }
       ],
@@ -666,7 +666,7 @@
     },
     {
       "name": "Rellin",
-      "hp": 480,
+      "hp": 390,
       "speed": 30,
       "rarity": "R",
       "SigChargeReq": 100,
@@ -703,7 +703,7 @@
     },
     {
       "name": "Sanguine",
-      "hp": 450,
+      "hp": 400,
       "speed": 10,
       "rarity": "R",
       "SigChargeReq": 80,
@@ -740,7 +740,7 @@
     },
     {
       "name": "Sedra",
-      "hp": 525,
+      "hp": 330 ,
       "speed": 60,
       "rarity": "R",
       "SigChargeReq": 100,
@@ -767,7 +767,7 @@
         {
           "name": "Starburst Explosion",
           "description": "Sedra channels her power to launch a large energy explosion",
-          "mechanics" : "Deals 50 arcane damage to 3 enemies",
+          "mechanics" : "Deals 40 arcane damage to 3 enemies",
           "cooldown": 1
         }
       ],
@@ -777,7 +777,7 @@
     },
     {
       "name": "Skirvex",
-      "hp": 340,
+      "hp": 290,
       "speed": 25,
       "rarity": "C",
       "SigChargeReq": 65,
@@ -813,7 +813,7 @@
     },
     {
       "name": "Temple Guard",
-      "hp": 325,
+      "hp": 275,
       "speed": 36,
       "rarity": "C",
       "SigChargeReq": 50,
@@ -850,9 +850,9 @@
     },
     {
       "name": "TRex",
-      "hp": 670,
+      "hp": 570,
       "speed": 24,
-      "rarity": "R",
+      "rarity": "UR",
       "SigChargeReq": 130,
       "imageName": "TRex",
       "species": "Riftbeast",
@@ -867,7 +867,7 @@
         {
           "name": "CHOMP",
           "description": "Rexes are known for their incredible bite strength. A corrupted one adds even more damage to the mix",
-          "mechanics" : "Deals 40 corrupt damage to 1 enemy",
+          "mechanics" : "Deals 35 corrupt damage to 1 enemy",
           "cooldown": 0
         },
         {
@@ -879,7 +879,7 @@
         {
           "name": "Tyrant Lizard King",
           "description": "Readying itself, the King of reptiles strikes with all of its might",
-          "mechanics" : "Deals 50 corrupt damage and apply Poisioned (20 corrupt DoT) for 2 turns",
+          "mechanics" : "Deals 50 corrupt damage and apply Poisoned (20 corrupt DoT) for 2 turns",
           "cooldown": 1
         }
       ],
@@ -887,7 +887,7 @@
     },
     {
       "name": "Trustless Engineer",
-      "hp": 350,
+      "hp": 300,
       "speed": 10,
       "rarity": "C",
       "SigChargeReq": 80,
@@ -924,7 +924,7 @@
     },
     {
       "name": "Ulmika",
-      "hp": 390,
+      "hp": 340,
       "speed": 10,
       "rarity": "UC",
       "SigChargeReq": 90,
@@ -961,7 +961,7 @@
     },
     {
       "name": "Vas Drel",
-      "hp": 340,
+      "hp": 290,
       "speed": 18,
       "rarity": "C",
       "SigChargeReq": 30,
@@ -982,13 +982,13 @@
         {
           "name": "Mostly Stable Runic Blessing",
           "description": "Vas casts 2 runes on a party member",
-          "mechanics" : "40% chance to apply Haste (15% dodge) and a 40% chance to apply Clarity(Accuracy 15%) to a party member for 1 turn",
+          "mechanics" : "50% chance each to apply Haste (20% dodge), Clarity(Accuracy 20%), Strengthen (dmg mult 20%), Precision Focus (Cr 20%), Devastate (Cdmg 20%)  to a party member for 2 turn",
           "cooldown": 3
         },
         {
           "name": "Fully Stable Runic Array",
           "description": "Vas tunes his runic array on an ally, which applies Recover (20 HoT) for 2 turns and also reduces their skill cooldown by 2 turns",
-          "mechanics" : "applies Recover (20 HoT) to 1 party member for 2 turns and also reduce their skill cooldown by 2 turns",
+          "mechanics" : "applies Recover (20 HoT) Amped(40% dmg) to 1 party member for 2 turns and also reduce their skill cooldown by 2 turns",
           "cooldown": 1
         }
       ],
@@ -998,7 +998,7 @@
     },
     {
       "name": "Vemk Parlas",
-      "hp": 400,
+      "hp": 350,
       "speed": 15,
       "rarity": "R",
       "SigChargeReq": 50,
@@ -1035,7 +1035,7 @@
     },
     {
       "name": "Virae",
-      "hp": 520,
+      "hp": 400,
       "speed": 21,
       "rarity": "UC",
       "SigChargeReq": 60,
@@ -1056,13 +1056,13 @@
         {
           "name": "Frozen Aegis",
           "description": "Virae wraps her ally in a cocoon of ice",
-          "mechanics" : "Shield 1 ally for 25 and apply Frozen Aegis(20% elemental res)",
+          "mechanics" : "Shield 1 ally for 25 and apply Frozen Aegis(20% crit rate increase) for 2 turns",
           "cooldown": 2
         },
         {
           "name": "Glacial Bloom",
           "description": "Virae shares the exhiliarting energy of the ice with her allies",
-          "mechanics" : "Apply Glacial Bloom(15% dmg mult) to 1 ally for 2 turns and also extend another existing buff by 2 turns",
+          "mechanics" : "Apply Glacial Bloom(15% dmg mult) and Recover(20 HoT) to 1 ally for 2 turns extend another existing buff by 2 turns",
           "cooldown": 1
         }
       ],
@@ -1072,7 +1072,7 @@
     },
     {
       "name": "VyGar",
-      "hp": 520,
+      "hp": 470,
       "speed": 33,
       "rarity": "R",
       "SigChargeReq": 80,
@@ -1099,7 +1099,7 @@
         {
           "name": "Mighty Shield",
           "description": "VyGar activates a personal favorite salvaged rune array",
-          "mechanics" : "Shield 1 ally for 120",
+          "mechanics" : "Shield 1 ally for 100",
           "cooldown": 1
         }
       ],
